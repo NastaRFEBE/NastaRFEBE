@@ -1,7 +1,12 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Fikry**.\
+Perkenalkan nama saya **Fikry**.
 
-Saya seorang **Mahasiswa** di salah satu kampus di Medan.\
+Saya seorang **Mahasiswa** di salah satu kampus di Medan.
 
-
+<p align="left">
+<a href="https://github.com/NastaRFEBE">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NastaRFEBE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NastaRFEBE&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
